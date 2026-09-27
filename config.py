@@ -1,11 +1,3 @@
-"""
-config.py
----------
-Carga toda la configuración del bot desde el archivo .env
-Cualquier otro archivo del proyecto importa sus ajustes desde aquí,
-así nunca hay valores "hardcodeados" repartidos por el código.
-"""
-
 import os
 from dotenv import load_dotenv
 
